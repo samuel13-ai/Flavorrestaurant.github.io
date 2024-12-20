@@ -9,7 +9,7 @@ body {
     color: #333;
     padding: 0;
     margin: 0;
-    background-image: url('Image/design4.webp'); /* Add your image here */
+    background-image: url(Image\design4.webp);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -19,7 +19,7 @@ body {
     width: 100%;
     max-width: 900px;
     margin: 50px auto;
-    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for readability */
+    background-color: rgba(255, 255, 255, 0.8);
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
